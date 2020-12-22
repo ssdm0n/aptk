@@ -28,7 +28,7 @@ never change linux system options
   -u, --upgrade         update your system on linux system
   -a, --add             add repo image server and key on your linux
   -r, --repositories    change your repositories on linux
-  -l, --log             change your repositories on linux
+  -l, --log             show your aptk log
   -w, --writer          show writer contact adress and about
   -e, --explanation     show software explanation
   
