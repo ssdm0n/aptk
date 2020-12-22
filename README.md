@@ -13,13 +13,13 @@ aptk better than other software
 # Usage Aptk
 1. Download aptk
 
-# git clone https://github.com/ssdm0n/aptk.git
+"git clone https://github.com/ssdm0n/aptk.git"
 
 2. Setup aptk on linux
 
-# cd aptk && chmod +x setup.sh &&./setup.sh
+"cd aptk && chmod +x setup.sh &&./setup.sh"
 
 3. Or
 
-# git clone https://github.com/ssdm0n/aptk.git && cd aptk && chmod +x setup.sh && ./setup.sh
+"git clone https://github.com/ssdm0n/aptk.git && cd aptk && chmod +x setup.sh && ./setup.sh"
 
