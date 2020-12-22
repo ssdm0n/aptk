@@ -32,8 +32,8 @@ never change linux system options
   -w, --writer          show writer contact adress and about
   -e, --explanation     show software explanation
   
-  exm : aptk --network --repositories --add --update
-        aptk -p bettercap
-        aptk -l
-        aptk --generate
-        aptk -s information-gathering
+exm : aptk --network --repositories --add --update, 
+        aptk -p bettercap, 
+        aptk -l, 
+        aptk --generate, 
+        aptk -s information-gathering, 
