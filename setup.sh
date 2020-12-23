@@ -15,7 +15,6 @@ E="\033[1;31m[-] \033[0m"
 P="\033[1;77m[>] \033[0m"
 
 echo -e $G"Installing aptk..."
-cd modules
 cp aptk /usr/local/bin/
 echo -e $G"Installed aptk software..."
 
