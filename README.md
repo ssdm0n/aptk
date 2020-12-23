@@ -7,9 +7,7 @@ aptk better than other software
 - install hack tool (aircrack-ng,metasploit,beef and ...)
 - not share your data and log
 - not remove your data
--   -h, --help            show this help message and exit
-
-never change linux system options
+- never change linux system options
 - Best
 
 # Downloads Aptk
